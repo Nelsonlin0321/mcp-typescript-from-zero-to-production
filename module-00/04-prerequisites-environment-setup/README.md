@@ -25,6 +25,12 @@ cd 01-prerequisites-environment-setup
 npm init -y
 ```
 
+```bash
+mkdir 01-register-tool-with-zod
+cd 01-register-tool-with-zod
+npm init -y
+```
+
 Make the project ESM (required by the SDK examples):
 
 ```json
