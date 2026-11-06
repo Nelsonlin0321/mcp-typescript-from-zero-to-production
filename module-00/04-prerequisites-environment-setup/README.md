@@ -20,8 +20,8 @@ The SDK also runs on Bun and Deno, but this tutorial uses Node.js 20+ so the exa
 ## Create a Project
 
 ```bash
-mkdir 04-prerequisites-environment-setup
-cd 04-prerequisites-environment-setup
+mkdir 01-prerequisites-environment-setup
+cd 01-prerequisites-environment-setup
 npm init -y
 ```
 
