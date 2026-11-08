@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "mcp-prompt": {
+            "type": "stdio",
+            "command": "npx",
+            "args": [
+                "tsx",
+                "src/index.ts"
+            ]
+        }
+    }
+}
